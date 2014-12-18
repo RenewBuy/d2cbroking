@@ -25,4 +25,4 @@ Mr Indraneel Chatterjee is an Insurance Professional with 14 years of experience
 **Pawan Sehrawat**: Head of General Insurance  
 Pawan has 8 years of experience in different Insurance businesses across the sales & customer service functions mainly for General Insurance products. He understands insurance needs of customers and with his able team, will be able to provide innovative insurance solutions. 
 
-[products]: products.html
+[products]: www.d2cbroking.com/products/individual.html

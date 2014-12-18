@@ -20,9 +20,9 @@ Following are the key management personnel of D2C Insurance Broking Pvt Ltd
 Mr Ankur Rajgarhia is a seasoned finance professional with over 11 years of experience in the industry across some of the finest institutions like American Express, AIG and Reliance Retail Insurance Broking Ltd. Experience cuts across product development and management, business analytics, distribution channel management and sales. Also have an in-depth knowledge of the P&L, which provides an edge in taking more informed decisions keeping the holistic scenario in mind. Ankur is a commerce graduate from Delhi University and an M.B.A from Management Development Institute Gurgaon with concentration in Finance and Marketing. Mr Rajgarhia is also the Principal Officer of the Company.
 
 **Indraneel Chatterjee**  
-Mr. Indraneel Chatterjee is an Insurance Professional with 13 years of experience spanning across Life & General Insurance as well as in Insurance Broking companies. He has been at the forefront of Product Development in leading companies like ICICI Prudential Life Insurance, American Express and Reliance Retail Insurance Broking Ltd. He is currently employed as the Head of Products and Corporate Affairs.
+Mr Indraneel Chatterjee is an Insurance Professional with 14 years of experience spanning across Life & General Insurance products across Insurance Companies and Insurance Broking companies. He has been at the forefront of Corporate Affairs and Product Development in leading companies like PNB MetLife, ICICI Prudential Life Insurance, American Express and Reliance Retail Insurance Broking Ltd. He leads the Product Development initiatives of the company and plays a crucial role in ensuring you get the best product that meets your needs.
 
 **Pawan Sehrawat**: Head of General Insurance  
-Pawan has 8 years of experience in different Insurance business lines in sales, customer service . He understands insurance needs of customers and with his able team, will be able to provide innovative insurance solutions. 
+Pawan has 8 years of experience in different Insurance businesses across the sales & customer service functions mainly for General Insurance products. He understands insurance needs of customers and with his able team, will be able to provide innovative insurance solutions. 
 
 [products]: products.html

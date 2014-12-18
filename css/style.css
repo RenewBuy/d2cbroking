@@ -1,0 +1,45 @@
+.header{}
+.contactinfo{ margin-top:20px;}
+.marginnone{ margin:0px; padding:0px;}
+.bannerback{ background:url(../img/bannerback.png) no-repeat center; padding:54px 0px 20px 0px;}
+.content{ margin-top: 20px; padding:0px 0px 20px;}
+.Footer{ background:#c36204; padding:30px 0px 20px 0px; color:#fff;}
+.Footer ul li a{ color:#fff; padding:0px 18px; text-decoration:none;}
+.Footer ul li a:hover{ color:#fbcc9d;}
+.products{ background:#e4e1e1; padding:40px 20px 40px;}
+.products ul li{ margin:0px 7px;}
+.producttitel{ font-size:18px; color:#6d6c6c;}
+.lastchild a{ padding-right:0px !important;}
+.agencover {
+    background:url(../img/bannerback.png) no-repeat center;
+    color: #FFFFFF;
+    padding: 20px 35px 35px 35px;
+	margin-top:10px;
+}
+
+.active{ color:#c5650e;}
+h1,h2,h3,h4{ font-family:'bariol_regularregular',Arial,sans-serif; }
+.content h2 {
+    text-decoration: underline;
+}
+.registration_form { margin-top: 40px;}
+.submit{ background:#c5650e; color:#fff; border:none; font-size:18px; text-transform:capitalize;}
+.submit:hover{ background:#e78124; color:#fff;}
+.brands_logo{ margin:20px;}
+.brand_index{ float:left; margin:5px 10px 0px 0px;}
+.brands_logo .pagination{ margin:0px 35px 5px 0px !important;}
+.brands_logo .list-inline{ margin-top:0px;}
+.brands_logo .list-inline li{ border:1px solid #999999; margin-bottom:10px; padding:10px;}
+.brands_logo .list-inline li:hover{ border:1px solid #e78124; opacity:0.7}
+.brands_logo .list-inline li img{ }
+.product_title{ margin:10px 0px 0px 0px; font-weight:bold;}
+.product_title a{ color:#666666; text-decoration:none;}
+.product_title a:hover{ color:#e78124;}
+
+.navbar-brand img {
+    width: 200px;
+}
+
+.content a {
+    color: #c5650e;
+}
